@@ -1,0 +1,7 @@
+.profile{
+    margin: 0 auto;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}

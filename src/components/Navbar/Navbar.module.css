@@ -1,0 +1,46 @@
+.nav{
+    display:flex;
+    align-items: center;
+    background-color: #007bff;
+    padding: 20px;
+}
+
+.nav_logo{
+    background-image: url("./logo192.png");
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+
+}
+
+.nav_list{
+    flex: 1;
+}
+
+.nav_list ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.nav_list_item{
+    margin: 0 20px;
+    color: #ffffff;
+}
+
+.nav_search{
+    margin: 0 20px;
+}
+
+.nav_login{
+    margin-right: 20px;
+}
+
+.nav_ava{
+    width: 50px;
+    height: 50px;
+}
+
+.nav_ava img{
+    width: 50px;
+    height: 50px;
+}
